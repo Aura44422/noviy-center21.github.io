@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+noviy-center-react/dist/
+noviy-center-react/docs/
+dist/
+build/
